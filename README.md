@@ -2,6 +2,8 @@
 
 This project simulates an ecosystem with prey and predator agents, demonstrating emergent behavior through simple rules and interactions.
 
+https://github.com/user-attachments/assets/3885bd7e-5078-4068-be72-397473c4311a
+
 ## Requirements
 
 - Python 3.7+
